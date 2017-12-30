@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Adding a new note woohoo",
+    "body": "Alright hell. This is not bad at all. This means database. This means the beginning of persistent data. Wow. Much wow.",
+    "id": "1"
+  },
+  {
+    "title": "I got this",
+    "body": "Alright. This is my own app. And I'm storing data in an object. Damn this is pretty nice. Thanks Node.js",
+    "id": "2"
+  },
+  {
+    "title": "What's left?",
+    "body": "So yeah. Fixing the listing of notes and updating reading notes code. Let's do this",
+    "id": "3"
+  },
+  {
+    "title": "It's done",
+    "body": "This App is finally complete. Woohoo! This is good",
+    "id": "4"
+  }
+]
